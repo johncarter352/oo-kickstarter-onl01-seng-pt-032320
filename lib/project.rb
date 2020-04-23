@@ -5,3 +5,5 @@ class Project
     @name = name
     @backers = []
   end
+  
+end
