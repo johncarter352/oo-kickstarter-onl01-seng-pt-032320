@@ -7,7 +7,7 @@ class Backer
   end 
   
   def back_project(project)
-    self.project.each{|project| project.back_project == self}
+    
   end
   
 end
